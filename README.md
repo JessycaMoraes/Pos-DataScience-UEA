@@ -20,7 +20,8 @@ c) To promote the resolution of practical and realistic problems based on data c
 
 ## Subjects
 
-- Fundamentals of Data Science Programming for Data Science
+- Fundamentals of Data Science
+- Programming for Data Science
 - Data Acquisition, Pre-processing and Exploration
 - Data Visualization
 - Statistics for Data Science
