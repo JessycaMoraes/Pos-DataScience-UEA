@@ -16,28 +16,36 @@ Nosso foco está na análise de dados do **Twitter**, uma plataforma de alto vol
 
 - 📌 Apresentar e explorar amostras dos dados coletados;
 - 🤖 Extrair e classificar perguntas (dúvidas) dos tweets;
-- 🧾 Gerar um dataset chamado `duvidasDb` com as perguntas extraídas;
+- 🧾 Gerar um dataset chamado `duvidasDb` com as perguntas extraídas; 
 - 📊 Analisar as perguntas sob diferentes perspectivas:
 
-### 🔍 Análise Estática
-- Quantidade total de tweets;
-- Número médio de caracteres;
-- Período entre perguntas.
-
-### ⏳ Visão Temporal
-- Houve aumento no número de perguntas ao longo do tempo?
-- O perfil das perguntas mudou com o tempo?
-
-### 🗺️ Visão Geográfica
-- Análise com base em latitude e longitude;
-- Similaridades entre perguntas postadas na mesma região.
+### 🔍 Visão Geral dos Dados
+- Resumo (sumário) com as estatísticas dos dados originais, ou seja, sem
+qualquer pré-processamento;
+- As estatísticas podem ser apresentadas através de tabelas e/ou gráficos.
 
 ### 📚 Classificação das Perguntas
 - Dúvidas relacionadas a:
-  - Doenças
-  - Medicamentos
-  - Organizações
-  - Pessoas
+  - Doenças - Quando a pergunta é relativa à doença. Deve-se observar que a doença é identificada por vários nomes. Exemplo: coronavírus, corona, COVID-19, etc.
+  - Medicamentos - Quando a pergunta é sobre o uso de determinado medicamento no tratamento da doença.
+  - Organizações - Quando a pergunta é relativa a uma determinada entidade ou organização. Emissora de TV, Ministério da Saúde ou empresas são exemplos de organizações.
+  - Pessoas - Quando a pergunta é sobre determinada pessoa. Por exemplo, a pergunta pode ser sobre a atuação que determinado político ou pessoa famosa teve durante esse período de
+pandemia.
+
+### ⏳ Visão Temporal
+- Pode-se considerar o intervalo temporal de dias, semanas ou meses;
+- Fazer uma análise temporal das perguntas que formam o dataset. Exemplo:
+  - Houve aumento no número de perguntas ao longo do tempo?
+  - O perfil das perguntas mudou com o tempo?
+
+### 🗺️ Visão Geográfica
+- Deve-se fazer uma análise geográfica (espacial) das perguntas que formam o dataset;
+- Exemplo de análise geográfica:
+  - a) os usuários de regiões diferentes fazem perguntas com diferentes focos?
+- Essa análise ainda pode ser realizada em diversos níveis de área (cidade, estado ou região);
+- Apresentar a distribuição das dúvidas dos usuários por região;
+- Deverá fazer uma análise dessa distribuição. Exemplo:
+  - Apresentar as razões (ou hipóteses) da ocorrência dessa distribuição.
 
 ---
 
