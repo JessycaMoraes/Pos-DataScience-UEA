@@ -19,25 +19,31 @@ Our focus is on data from **Twitter**, a platform known for its high volume and 
 - 🧾 Generate a dataset called `duvidasDb` with the extracted questions;
 - 📊 Analyze the questions from multiple perspectives:
 
-### 🔍 Static Analysis
-- Total number of tweets;
-- Average character length;
-- Time span between questions.
-
-### ⏳ Temporal Analysis
-- Was there an increase in the number of questions over time?
-- Did the types of questions change as time progressed?
-
-### 🗺️ Geographic Analysis
-- Use latitude and longitude data to:
-  - Detect patterns in similar questions from the same regions.
+### 🔍 Data Overview
+- Summary with the statistics of the original data, i.e. without any pre-processing;
+- Statistics can be presented through tables and/or graphs.
 
 ### 📚 Question Classification
 - Identify types of questions related to:
-  - Diseases  
-  - Medications  
-  - Organizations  
-  - People
+  - Diseases - When the question is about the disease. It should be noted that the disease is identified by several names. Example: coronavirus, corona, COVID-19, etc.
+  - Medications - When the question is about the use of a certain medication in the treatment of the disease.
+  - Organizations - When the question is about a certain entity or organization. TV stations, the Ministry of Health or companies are examples of organizations.
+  - People - When the question is about a certain person. For example, the question may be about the actions of a certain politician or famous person during this pandemic period.
+
+### ⏳ Temporal Analysis
+- You can consider the time interval of days, weeks or months;
+- Perform a temporal analysis of the questions that make up the dataset. Example:
+  - Has there been an increase in the number of questions over time?
+  - Has the profile of the questions changed over time?
+
+### 🗺️ Geographic Analysis
+- A geographic (spatial) analysis of the questions that make up the dataset should be performed;
+- Example of geographic analysis:
+  - a) Do users from different regions ask questions with different focuses?
+- This analysis can also be performed at different levels of area (city, state or region);
+- Present the distribution of user questions by region;
+- An analysis of this distribution should be performed. Example:
+  - Present the reasons (or hypotheses) for the occurrence of this distribution.
 
 ---
 
