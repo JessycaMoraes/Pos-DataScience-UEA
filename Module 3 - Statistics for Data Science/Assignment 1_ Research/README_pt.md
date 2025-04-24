@@ -26,3 +26,9 @@
 ## 📁 Arquivos
 
 - `Resultado_Pesquisa2016.pdf`: Documento original da pesquisa com os resultados.
+
+---
+
+## 👨‍🏫 Orientador
+
+Prof. Ms. Felicien Gonçalves Vásquez
