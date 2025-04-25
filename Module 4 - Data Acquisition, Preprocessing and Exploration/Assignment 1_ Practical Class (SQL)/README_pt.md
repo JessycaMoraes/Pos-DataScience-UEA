@@ -45,7 +45,7 @@ Será utilizado o **Jupyter Notebook** para a criação da Tabela Raw, utilizand
 - Top 10 produtos mais caros
 - Pedido trimestral
 - Detalhes do pedido estendido
-- Produtos por baixo do valor médio
+- Produtos acima do valor médio
 - Subtotal do pedido
 - Vendas por ano
 - Produtos vendidos em 1995
