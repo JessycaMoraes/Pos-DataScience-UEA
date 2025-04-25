@@ -44,3 +44,7 @@ The dataset consists of official statistical data from the **11,538 athletes** w
 
 - We computed the **age** of each athlete (as of August 2016) from their date of birth, generating a new column `age`;  
 - We removed the columns `id`, `name`, and `dob`.
+
+## 👨‍🏫 Advisor
+
+Prof. Ms. Felicien Gonçalves Vásquez
