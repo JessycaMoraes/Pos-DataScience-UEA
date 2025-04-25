@@ -48,6 +48,6 @@ Realizar uma análise e transformação de dados a partir do dataset `kc_house_d
 
 ---
 
-## 👨‍🏫 Advisor
+## 👨‍🏫 Orientador
 
 Prof. Luis Cuevas Rodríguez, PhD
