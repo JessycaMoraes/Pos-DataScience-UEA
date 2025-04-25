@@ -44,3 +44,7 @@ O dataset consiste de dados estatísticos oficiais dos **11.538 atletas** que pa
 
 - Adquirimos a **idade** de cada atleta (para agosto/2016) a partir de sua data de nascimento, gerando assim uma nova coluna `age`;  
 - Excluímos as colunas `id`, `name` e `dob`.
+
+## 👨‍🏫 Orientador
+
+Prof. Ms. Felicien Gonçalves Vásquez
