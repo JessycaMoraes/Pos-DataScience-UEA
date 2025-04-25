@@ -48,6 +48,15 @@ Realizar uma análise e transformação de dados a partir do dataset `kc_house_d
 
 ---
 
+### Equipe
+
+- Jessyca Jordanna Barroso de Moraes
+- Gian Giovanni Rodrigues da Silva   
+- Tammy Hikari Yanai Gusmão  
+- Thalita Naiara Andre Alves
+
+---
+
 ## 👨‍🏫 Orientador
 
 Prof. Luis Cuevas Rodríguez, PhD
