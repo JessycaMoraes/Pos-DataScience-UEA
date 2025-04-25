@@ -45,7 +45,7 @@ A **Jupyter Notebook** will be used to create the Raw Table, using **Python** an
 - Top 10 most expensive products
 - Quarterly order
 - Extended order details
-- Products below average value
+- Products above average value
 - Order subtotal
 - Sales by year
 - Products sold in 1995
