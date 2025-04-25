@@ -48,6 +48,15 @@ Perform data analysis and transformation on the `kc_house_data.csv` dataset usin
 
 ---
 
+### Team
+
+- Jessyca Jordanna Barroso de Moraes
+- Gian Giovanni Rodrigues da Silva  
+- Tammy Hikari Yanai Gusmão  
+- Thalita Naiara Andre Alves
+
+---
+
 ## 👨‍🏫 Advisor
 
 Prof. Luis Cuevas Rodríguez, PhD
